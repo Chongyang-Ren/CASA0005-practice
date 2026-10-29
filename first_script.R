@@ -11,3 +11,6 @@ print(result)
 
 numbers <- c(10, 20, 30, 40, 50)
 mean(numbers)
+# Third practice: editing on GitHub
+
+print("Hello from GitHub!")
